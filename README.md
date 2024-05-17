@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rids13
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java dsa & css
-- 📫 How to reach me by may insta id i_m_riddhi11
+- 📫 Reach me by my insta id i_m_riddhi11
 - 😄 Pronouns: she/her
 
 <!---
